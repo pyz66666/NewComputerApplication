@@ -15,6 +15,7 @@
             android:layout_height="match_parent"
             android:layout_weight="1"
             android:text="C"
+            android:background="@drawable/shape_retangle"
             android:textSize="30sp"
             android:gravity="center"
             />
@@ -23,6 +24,7 @@
             android:layout_height="match_parent"
             android:layout_weight="1"
             android:text="+/-"
+            android:background="@drawable/shape_retangle"
             android:textSize="30sp"
             android:gravity="center"
             />
@@ -31,6 +33,7 @@
             android:layout_height="match_parent"
             android:layout_weight="1"
             android:text="%"
+            android:background="@drawable/shape_retangle"
             android:textSize="30sp"
             android:gravity="center"
             />
@@ -39,7 +42,7 @@
             android:layout_height="match_parent"
             android:layout_weight="1"
             android:text="/"
-            android:background="#e47f26"
+            android:background="@drawable/shape_retanle_orange"
             android:textSize="30sp"
             android:gravity="center"
             />
@@ -54,6 +57,7 @@
             android:layout_height="match_parent"
             android:layout_weight="1"
             android:text="7"
+            android:background="@drawable/shape_retangle"
             android:textSize="30sp"
             android:gravity="center"
             />
@@ -62,6 +66,7 @@
             android:layout_height="match_parent"
             android:layout_weight="1"
             android:text="8"
+            android:background="@drawable/shape_retangle"
             android:textSize="30sp"
             android:gravity="center"
             />
@@ -70,6 +75,7 @@
             android:layout_height="match_parent"
             android:layout_weight="1"
             android:text="9"
+            android:background="@drawable/shape_retangle"
             android:textSize="30sp"
             android:gravity="center"
             />
@@ -78,7 +84,7 @@
             android:layout_height="match_parent"
             android:layout_weight="1"
             android:text="X"
-            android:background="#e47f26"
+            android:background="@drawable/shape_retanle_orange"
             android:textSize="30sp"
             android:gravity="center"
             />
@@ -93,6 +99,7 @@
             android:layout_height="match_parent"
             android:layout_weight="1"
             android:text="4"
+            android:background="@drawable/shape_retangle"
             android:textSize="30sp"
             android:gravity="center"
             />
@@ -101,6 +108,7 @@
             android:layout_height="match_parent"
             android:layout_weight="1"
             android:text="5"
+            android:background="@drawable/shape_retangle"
             android:textSize="30sp"
             android:gravity="center"
             />
@@ -109,6 +117,7 @@
             android:layout_height="match_parent"
             android:layout_weight="1"
             android:text="6"
+            android:background="@drawable/shape_retangle"
             android:textSize="30sp"
             android:gravity="center"
             />
@@ -117,8 +126,8 @@
             android:layout_height="match_parent"
             android:layout_weight="1"
             android:text="--"
-            android:background="#e47f26"
             android:textSize="30sp"
+            android:background="@drawable/shape_retanle_orange"
             android:gravity="center"
             />
 
@@ -132,6 +141,7 @@
             android:layout_height="match_parent"
             android:layout_weight="1"
             android:text="1"
+            android:background="@drawable/shape_retangle"
             android:textSize="30sp"
             android:gravity="center"
             />
@@ -140,6 +150,7 @@
             android:layout_height="match_parent"
             android:layout_weight="1"
             android:text="2"
+            android:background="@drawable/shape_retangle"
             android:textSize="30sp"
             android:gravity="center"
             />
@@ -148,6 +159,7 @@
             android:layout_height="match_parent"
             android:layout_weight="1"
             android:text="3"
+            android:background="@drawable/shape_retangle"
             android:textSize="30sp"
             android:gravity="center"
             />
@@ -156,7 +168,7 @@
             android:layout_height="match_parent"
             android:layout_weight="1"
             android:text="+"
-            android:background="#e47f26"
+            android:background="@drawable/shape_retanle_orange"
             android:textSize="30sp"
             android:gravity="center"
             />
@@ -171,7 +183,9 @@
             android:layout_height="match_parent"
             android:layout_weight="2"
             android:text="0"
-            android:gravity="center"
+            android:background="@drawable/shape_retangle"
+            android:gravity="center_vertical"
+            android:paddingLeft="50dp"
             android:textSize="30sp"
             />
         <TextView
@@ -179,6 +193,7 @@
             android:layout_height="match_parent"
             android:layout_weight="1"
             android:text="1"
+            android:background="@drawable/shape_retangle"
             android:gravity="center"
             android:textSize="30sp"/>
         <TextView
@@ -187,7 +202,7 @@
             android:layout_weight="1"
             android:text="="
             android:gravity="center"
-            android:background="#e47f26"
+            android:background="@drawable/shape_retanle_orange"
             android:textSize="30sp"/>
 
 
